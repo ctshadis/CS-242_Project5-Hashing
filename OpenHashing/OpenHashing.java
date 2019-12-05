@@ -22,8 +22,20 @@ public class OpenHashing <E> implements DictionaryADT <E>{
      */
     @SuppressWarnings("unchecked")
     public int insert(E item) {
-        // TO BE IMPLEMENTED BY THE STUDENT
-        return 0; // DELETE IT WHEN DONE
+        int hashVal = item.hashCode();
+        if (((LinkedList)dataChain[hashVal]).isEmpty()) {
+        	((LinkedList)dataChain[hashVal]).addFirst(item);
+        	return 0;
+        }
+        else {
+        	if(((LinkedList)dataChain[hashVal]).contains(item)){
+        		return 0;
+        	}
+        	else {
+        		((LinkedList)dataChain[hashVal]).addLast(item);
+        		return 1;
+        	}
+        }
     }  // int insert(...)
 
     /**
@@ -34,9 +46,18 @@ public class OpenHashing <E> implements DictionaryADT <E>{
      */
     @SuppressWarnings("unchecked")
     public E search(E item, IntObject count) {
-        // TO BE IMPLEMENTED BY THE STUDENT
-        return null;
-    }  // search(...)
+        int hashVal = item.hashCode();
+        if(((LinkedList)dataChain[hashVal]).contains(item)) {
+        	count.setData(((LinkedList)dataChain[hashVal]).indexOf(item) + 1);
+        	return item;
+        	
+        }
+        else {
+        	count.setData(((LinkedList)dataChain[hashVal]).size());
+        	return null;
+        }
+    }
+      // search(...)
 
     /**
 	 * @param item element to be deleted from the dictionary
@@ -44,8 +65,16 @@ public class OpenHashing <E> implements DictionaryADT <E>{
 	 * @return the object if found and deleted; null otherwise
 	 */
     public E delete(E item, IntObject count) {
-    	// TO BE IMPLEMENTED BY THE STUDENT
-            return null;
+    	int hashVal = item.hashCode();
+        if(((LinkedList)dataChain[hashVal]).contains(item)) {
+        	count.setData(((LinkedList)dataChain[hashVal]).indexOf(item) + 1);
+        	((LinkedList)dataChain[hashVal]).remove(item);
+        	return item;
+        }
+        else {
+        	count.setData(((LinkedList)dataChain[hashVal]).size());
+        	return null;
+        }
+        
         }  // delete (...)
     }
-}

@@ -1,0 +1,4680 @@
+All the 147311 elements have been successfully inserted into the hash table
+The total number of collisions while constructing the hash table is 31655
+
+SUCCESS!! Book with ISBN 0001010565 exists in the hash table
+The number of comparisons made for this succeesful search is 3
+
+SUCCESS!! Book with ISBN 0061030872 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0140350543 exists in the hash table
+The number of comparisons made for this succeesful search is 2
+
+SUCCESS!! Book with ISBN 0310356121 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0324041586 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 034910946X exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0380008955 exists in the hash table
+The number of comparisons made for this succeesful search is 2
+
+SUCCESS!! Book with ISBN 0385507763 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0425048381 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0440236754 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0446679178 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0451402774 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0517708191 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 055328553X exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0590457403 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0671534203 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0679723536 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0709164645 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 075285884X exists in the hash table
+The number of comparisons made for this succeesful search is 2
+
+SUCCESS!! Book with ISBN 0801978971 exists in the hash table
+The number of comparisons made for this succeesful search is 2
+
+SUCCESS!! Book with ISBN 0812966627 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0843945427 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0884042081 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 0913990639 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 1401300588 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 1564134229 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 186046310X exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 189403158X exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 207040983X exists in the hash table
+The number of comparisons made for this succeesful search is 2
+
+SUCCESS!! Book with ISBN 2266084380 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 2843232228 exists in the hash table
+The number of comparisons made for this succeesful search is 2
+
+SUCCESS!! Book with ISBN 3150078210 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 3401025597 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 3442450535 exists in the hash table
+The number of comparisons made for this succeesful search is 3
+
+SUCCESS!! Book with ISBN 1585670847 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 3499232383 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 3895082309 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 843501634X exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 8811666376 exists in the hash table
+The number of comparisons made for this succeesful search is 1
+
+SUCCESS!! Book with ISBN 9723703661 exists in the hash table
+The number of comparisons made for this succeesful search is 2
+
+There is no book with ISBN 0001010596
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 0061030898
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 0140350561
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0310361121
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 0324042601
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0349109501
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0380008962
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0385507959
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 0425048401
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 0440236761
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0446679187
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0451402779
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0517708243
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 0553285544
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0590457421
+The number of comparisons made for this unsucceesful search is 4
+
+There is no book with ISBN 0671534311
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0679723777
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0709167719
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0752858901
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0801981019
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 0812966651
+The number of comparisons made for this unsucceesful search is 2
+
+There is no book with ISBN 0843945429
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 0884042084
+The number of comparisons made for this unsucceesful search is 3
+
+There is no book with ISBN 0913990793
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 1401300592
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 1564138201
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 1860463219
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 1894048445
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 2070409819
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 2266085109
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 2843234167
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 3150079119
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 3401025741
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 3442450552
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 3499232387
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 3895082446
+The number of comparisons made for this unsucceesful search is 0
+
+There is no book with ISBN 8435016357
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 8811666419
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 9723703901
+The number of comparisons made for this unsucceesful search is 1
+
+There is no book with ISBN 1585670848
+The number of comparisons made for this unsucceesful search is 0
+
+Book with ISBN 0195153448 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451452755 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312963009 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671002481 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0865050880 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0684868911 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 067175145X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0375401318 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0099771519 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0802433243 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0061098795 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0618126988 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3518390473 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671024248 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553255142 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0385304366 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0821758179 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0399143335 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0375706062 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0679802614 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 156245191X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3423205202 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0752848011 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0446401617 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3548248845 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553575007 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425099644 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 9500720418 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1931561230 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380977788 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345301293 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671624342 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0452282829 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553210327 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553236628 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2207249786 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553583573 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449907953 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0006514588 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0152099905 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2070373622 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1551661594 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140381538 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0743204239 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0068596022 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553560735 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060920335 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0755308530 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451161351 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449001245 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0525947345 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345345738 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312986289 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0375410198 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0843952202 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380780216 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373764677 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451204530 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0785814078 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0399141227 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 8433961519 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345392477 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0862418879 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0446341878 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345379365 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0789426277 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 044011585X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 157322877X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671722891 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345298349 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060503475 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0679736891 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0679438890 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3442450136 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590321579 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0759239630 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1400040752 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671779370 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 006104444X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0452262933 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0330358561 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1568654383 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590300393 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0385297548 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1591825369 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 096623460X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 060303294X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 8425318599 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312155581 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1590710088 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 8466606211 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 9500286327 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0141006633 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0028617274 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1895897653 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 8421618024 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0812542819 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2070375722 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0954395913 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380820056 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0912500522 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0812500067 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451171845 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140291954 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553269828 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3596150531 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0066213339 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 067088698X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0915684012 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 849710045X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425184757 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373291175 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3404118251 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451458478 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0670868434 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060931213 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1566471575 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0340401079 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440202515 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0679426612 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0452282543 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060509406 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671738763 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0395440904 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0515060712 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451523555 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449149587 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1575667614 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 8478884955 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590424564 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0374199698 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 156389016X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1552633845 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2266064975 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440986524 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0897210875 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0316313203 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060560789 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0913780146 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425129632 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0375507477 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0786866764 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449206505 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0870119206 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380781484 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1860462588 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553487728 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 084230052X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345355245 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0515087335 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0843931248 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451207637 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345325885 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553572393 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1591823803 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3442455707 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 8432069116 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425189465 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 042519454X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440181488 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3404129423 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0747260850 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 037550723X is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0670327107 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671400274 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440424216 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 055321005X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0441623824 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 844803046X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3596204089 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0452280362 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0689715404 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0821739352 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0891075275 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0753500949 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553574558 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 096669192X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0375727361 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060082739 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 8466311025 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451517148 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671446622 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671024256 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0394523512 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0965630447 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0441536026 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451523733 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 015201036X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0307024342 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0064434516 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0743466535 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0307176274 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0452281695 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1551666243 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345355105 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0865144346 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451159535 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140441379 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0812512405 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671880551 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1565970179 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0385335849 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140018603 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0689819781 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 074939773X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3548256740 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1579620361 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1563053144 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0070665842 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3453056884 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0385491042 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553579940 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0571210708 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3442446791 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0821757628 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0843942258 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0307989135 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0316341029 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0671739174 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0816717702 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0702222763 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 039485845X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0684161133 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0310470307 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140042229 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0821744542 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 034542140X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3423073217 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345395336 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140243933 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060083999 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440413214 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0670891592 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0002254182 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1588452832 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451458214 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0758206151 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0553583611 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0821739220 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0029639204 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060192356 is successfully deleted
+The number of comparisons made for this succeesful deletion is 3
+
+Book with ISBN 0345288823 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 9839950770 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 080376734X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0394563492 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0006551823 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0439388805 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0684871432 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 034542154X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0385486588 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0142002097 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0070296979 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 014002848X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1404334114 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0330343327 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0297777661 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1843580020 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0586062122 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0241114969 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425180883 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0395368952 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3423084189 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0446326305 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2890262480 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380799103 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553256750 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0874066182 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140062238 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1573220183 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1551664984 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2070428176 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0679441891 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671792393 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1573223522 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380701626 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0739427113 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0804119732 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2040160523 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553291661 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1583140131 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312971745 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451175689 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425104958 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 042510057X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0156687453 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380773791 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 088776116X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0515121827 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590189360 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380770962 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373833733 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0352306211 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0812544528 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1862040052 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0888011075 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345380517 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 067943528X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1854593587 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345377370 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425175103 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0552145807 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 3404148576 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373621094 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0330353314 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345466608 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3442439191 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0441007384 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380860333 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0670910619 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590920685 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 067172147X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1551664569 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0804119945 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312962134 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0743218779 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 968190575X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553256033 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1552094804 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1891830090 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060505540 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0760748845 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0811804534 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380626950 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0684853469 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671735594 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060928611 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0446513253 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 8828600667 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553213393 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0934601038 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671743821 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 158314224X is successfully deleted
+The number of comparisons made for this succeesful deletion is 4
+
+Book with ISBN 0140250565 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 055356997X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0743464451 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380810662 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0855614064 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0874042380 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 078670697X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380758520 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0263169103 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140371613 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3498050273 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590405489 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 344244327X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1893652440 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0800706536 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0380895366 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312437382 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590463144 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0525936807 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373250355 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451184270 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671636723 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0375713298 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0717282856 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440192463 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0439997119 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671640771 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312953895 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440207053 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1562829327 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451172698 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 031286924X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0708840345 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1404100814 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0812564642 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2020427850 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1561387053 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0091833310 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 2264021756 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425184005 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1586649310 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0060564512 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 950556354X is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0345316819 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2070407756 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0761511563 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449904679 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0883684721 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 039921819X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0670386553 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312865635 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 014200281X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1860464653 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553229869 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2253032247 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380752166 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0446302872 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0515093491 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0330376209 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3257062001 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3550101988 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3608932119 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3492224628 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0521485444 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590085247 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 157566402X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0764550284 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0399214240 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 1551666936 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0743411412 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553273639 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1400075734 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449232654 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0590877607 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 8439705964 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440202019 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451169824 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449232875 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312054211 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 312597240X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0195115511 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0749406623 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0684853027 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671527924 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553253476 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1568582307 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0393325318 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3518387626 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671571273 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 084997688X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553565133 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0394485017 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0821762990 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 3823821245 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0750502010 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312859686 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2070423484 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0152046593 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0785269150 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0385333676 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 055315687X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1561700762 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0306806738 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380719983 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373098162 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0821737120 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0446363286 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0821753592 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0375503129 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345322282 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0061090948 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 067153145x is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0778320103 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449005895 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 345321241X is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0373482124 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 067187750X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2234048346 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0684811545 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0316289329 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449906353 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671674412 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0505524309 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0131003550 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 8435016382 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1403377863 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0934748365 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451198484 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0964498871 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0030605741 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451172167 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0385267746 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1857029143 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0751362565 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451452526 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449900983 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 1852425849 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1569714290 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590451316 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2266071106 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671026879 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3596127483 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449240126 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0590445065 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0688036872 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3453169328 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0061097837 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0771089708 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0812545273 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1893332004 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140109811 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0800714784 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0571112463 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671670204 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0877956804 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0843937971 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380007509 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0064405141 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0373263635 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 094557567X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312265719 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449210677 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373025181 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0849912075 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1565120272 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0316853615 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1551664844 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0679448667 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 8402048323 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449223892 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0911051503 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671508156 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0595000304 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0590741683 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380753855 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 987550095X is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 074341277X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1566845807 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0207145059 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553258966 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 031278614X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312330871 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0684842386 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671658271 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0898152224 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0525939083 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0812501780 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3805207255 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0812545680 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1858288630 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0689121822 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0590463624 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671508083 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 042516683X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0061057754 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0517599694 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3407797907 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 034529730X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0679454691 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0836279859 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373511426 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2714438199 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 4190869775 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3451164086 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345332091 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440198410 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0966877284 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0874660750 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0713995831 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0688210767 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553273892 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671014447 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0375505741 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312959206 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 034531266X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140135219 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2207305511 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0195405757 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1576732762 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553235907 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0515117404 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0061091685 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0156714663 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380794411 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425145336 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0349108129 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312265786 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0439101395 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 1900489007 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 006080825X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0515082236 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3407808674 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1853264822 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 044100282X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 080242516X is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0849954134 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0840723237 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590881949 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3442453151 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0140100881 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 3596150590 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3257233264 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0060011572 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0871920786 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2264025867 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 8817660396 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0823037231 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373613598 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671481126 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0553027573 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671895451 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0395478111 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0515110787 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0451410343 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0688133983 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1890447293 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1565048350 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0395169739 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2211033911 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0375708820 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0374166447 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440402255 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3548256341 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 093245836X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553282107 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 8440697457 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0965008975 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1892785048 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553227688 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373160607 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0688160956 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0425051587 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590484060 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671517430 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2253076597 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0141302623 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0765308908 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0752224697 is successfully deleted
+The number of comparisons made for this succeesful deletion is 3
+
+Book with ISBN 0806994835 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0843949392 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0751501077 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553443666 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1557485526 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0890432848 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425048578 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0836190939 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590436627 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0517436183 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0345340175 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3404146824 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590451790 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 042518692X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0828902534 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0590129996 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1873982631 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0694523445 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0394516575 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1573249556 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0713630442 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345275519 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0816708495 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312206283 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 087486951X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0745911013 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0393963578 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0914053078 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0825429080 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0450056619 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0836204166 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 346202633X is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0312077661 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0446342084 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0295959894 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 059040623X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0446914940 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0721400590 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 082031949X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0865475180 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0394549171 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 158542143X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2246519810 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0345334183 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0571209246 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0745931723 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380727609 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3423703458 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0395425069 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380728990 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 8429714758 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2264034505 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0895886448 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0744508428 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2070375684 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0064473589 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 014009301X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1852130954 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0441010466 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1551667061 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0843946695 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 156170718X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0395601983 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0425116875 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671864238 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553382241 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0840763336 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0399141340 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2080702181 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1896597394 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 055340962X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0525933824 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373218788 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0136724299 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0446523399 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0440126711 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0880223952 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1555837573 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 068841933X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3822858641 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0330320459 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671734261 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0345254457 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312966121 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0895770458 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0849916801 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0679642420 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0671025961 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0520201566 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0812539370 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0307125955 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0938410555 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0871314614 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 2702400639 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0441009646 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0679728163 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0670338060 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 3499223848 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0449703304 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0373802110 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0553803417 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0849917913 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0743477669 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0375508392 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0373802064 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0765304775 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0425193985 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0778320081 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1592798969 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0312206143 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0155068059 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 1591051428 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0312877218 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0743464826 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0307133168 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0892967293 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0843944048 is successfully deleted
+The number of comparisons made for this succeesful deletion is 3
+
+Book with ISBN 0553584197 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0971925909 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 038081899X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0380817799 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0446527971 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0312277342 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0380708426 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0892967056 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 078686656X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+Book with ISBN 0394402294 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+There is no book with ISBN 1802135811
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0241501386
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 8430633194
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0444223601
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0555215051
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0451682847
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0080078472
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0802138183
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1551661978
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0822213001
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1690017235
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0241261949
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0533248103
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0384973871
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0843527992
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0030664401
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0590937475
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0688088890
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1588516196
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 840804592Y
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0266094319
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0151627180
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 8423920499
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0393875265
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0840455171
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 014045145X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0765346021
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0310239713
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0553484280
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 071267502X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 1670833894
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0244408471
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0634826194
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0384773767
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0770527618
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0380760557
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0449127799
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1564581892
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0373260194
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 094183148X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1590445480
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0239179580
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0530415905
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0594091695
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0804501910
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 044996139X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0345347643
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0060248871
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0451153506
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 044040967X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 1446895571
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0299228179
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 053323272X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0384503830
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0824580352
+The number of comparisons made for this unsucceesful deletion is 3
+
+There is no book with ISBN 0316572033
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0373226741
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0399508823
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0393318296
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 158243152X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1099175622
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0294473485
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0520554301
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0683171635
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0345430048
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0890858674
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0671456851
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0345287803
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0743412484
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 058620790X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1439217873
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1256522819
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0832753841
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0584090851
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0425593360
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0425161299
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0850307151
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0590403840
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 1577330899
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 034532067X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1786860693
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0230842573
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0735310703
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0554573721
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 156045338X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0771557258
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0811836574
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0425070701
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0312854089
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0500201959
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1200170794
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0200730756
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0634814137
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 1884830365
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0553546096
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 9164260035
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0517617339
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0671517801
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0583134094
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 3442425558
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN X877957185
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0112317123
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0829311235
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0783000546
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0373582353
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0345345488
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0152957886
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0345257888
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 3548750290
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 059044016X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1312307829
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 3242454875
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 3432355117
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0854706665
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0375556450
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0345363911
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 067187881x
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0752904908
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0486413000
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 344235163X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 092238241X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0153572652
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0421083951
+The number of comparisons made for this unsucceesful deletion is 0
+
+Book with ISBN 0006481760 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+There is no book with ISBN 0394309312
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0070566167
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0823060753
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0805027945
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0152022817
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0380700498
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 1568331489
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1805210539
+The number of comparisons made for this unsucceesful deletion is 3
+
+There is no book with ISBN 0207689395
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0237148066
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0674225255
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0752503551
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0553263432
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0553257475
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 055327395X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0515062893
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 014015260X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0473580015
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 024200443X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 1521246714
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0863471401
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0375425334
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0764556709
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0873416131
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0345279793
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0571207582
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0771039389
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0518003224
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0153244485
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0320761238
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0963580333
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 3895470297
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0553255534
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0670886097
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0374410728
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0312901188
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0534362199
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1373292406
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0120323381
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0921959630
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0373724974
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 087143781X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0440159427
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0515106213
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 014062073x
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0525944582
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0886777669
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1934986517
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0249317647
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0030314446
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 2844520285
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0340578492
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0515167633
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0553277019
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0451198846
+The number of comparisons made for this unsucceesful deletion is 3
+
+There is no book with ISBN 1580762597
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 007023645X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0896951139
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1258289408
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0831764721
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 038ab00016
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN X489693579
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0X06931820
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0bc0484338
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0q12931360
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 2ef5217633
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN q449415632
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 22c0316962
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 04511d6141
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0785f49314
+The number of comparisons made for this unsucceesful deletion is 3
+
+There is no book with ISBN 067165y970
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 03851z8525
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 031215o530
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 044991q210
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0345r29141
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 051s008327
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 034w356322
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0373x22413
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0967240232
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 842793v081
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 08653a097X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN b671810367
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0c91418385
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 03d3217153
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 053e144127
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0316f0071X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 03854g5921
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 155885h550
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0681027i91
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 06716833j1
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 349222765k
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN a345328493
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0b71411039
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 08c9669875
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 092d820119
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0345e81653
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 044094f860
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 034538g001
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0446815h38
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 07505111i7
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 225306742j
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN k52002030X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 06l1466887
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 06m9781374
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 068n810875
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0061o52213
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 03991p3798
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 817437q250
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0715805r08
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 15774832s0
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 349926428t
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0565070291
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0165734348
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 052a944680
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 055b261657
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 2253d16551
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 00609e1347
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 075969f148
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0312020g31
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 06716377h7
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 078600421i
+The number of comparisons made for this unsucceesful deletion is 0
+
+Book with ISBN 8432230030 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 0671605356 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 3492265030 is successfully deleted
+The number of comparisons made for this succeesful deletion is 2
+
+Book with ISBN 037348271X is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+There is no book with ISBN a671721127
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0b84839539
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 05c3251724
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 842d646369
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1585e70502
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 06716f8631
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 202008g932
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 8478880h66
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 06797235i6
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 080240012j
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN k345295226
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0l23860103
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 00m1801222
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 002n422105
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 3404o20345
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 05904p5353
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 207038q311
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0140157r65
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 04393439s9
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 042513332t
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1743529502
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0260290390
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 8837114472
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0314372374
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0874568088
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 002546480X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0312927041
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0140315854
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0863184590
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0515110400
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN a340574410
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0b49930731
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 06c4847949
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 155d174540
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 3453e63801
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 08415f3427
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 155773g280
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0671852h00
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 32572274i7
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 067142690j
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN k373023340
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0l73026366
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 22m3150126
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 080n061711
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0373o03999
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 08125p1625
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 185685q919
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1563522r76
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 04600189s0
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 081257135t
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 1884193829
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 020356121X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 083685191X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0814519922
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0439593133
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 8448062069
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 1569477351
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0586069824
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1579547497
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 1564743170
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN a070370011
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0b61232293
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 03c4574192
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 051d107155
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0385e43850
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 05252f8404
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 067154g607
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0670877h51
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 09319488i1
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 01557139j0
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 067152534k
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN l407784570
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0m43924136
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 03n0481320
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 096o657400
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0385p57045
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 09711q2208
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 039457r086
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0749930s47
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 08836860t8
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 044041383u
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN v565074459
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0w12917007
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 03x604134X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 055y246682
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 1557z00144
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0283905068
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0385481521
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 4385354266
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0886775940
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0595149175
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 6770149904
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0793752746
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0082213656
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0379399816
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 3548900479
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0894300484
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 849332a630
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 2020336b51
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 05530261c5
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 006100726d
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN e401466369
+The number of comparisons made for this unsucceesful deletion is 3
+
+There is no book with ISBN 1f52851141
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 15g8003460
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 031h272901
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 8434i5094X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 06740j3942
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 044811k288
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0030508l16
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 03939005m8
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 091031112n
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN o140383212
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0p95021827
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 05q7413183
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 031r250428
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0333s27378
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 00609t5870
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 3822819u35
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 32180060v2
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 044220382x
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN y451191315
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0z4110259X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 01A0481621
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 156B447374
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 3423C81459
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 04401D2551
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 055348E721
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0671041F09
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 08928150G6
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 084392217H
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN I312049285
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0J95257166
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 03K0781506
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 185L842305
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0140M87004
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 06898N6872
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0752836O86
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0440140P05
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 03452710Q7
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 081251784R
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN S740741837
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 1T66475155
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 03U4707753
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 038V257023
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0440X82972
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 84473Y2660
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 039564Z258
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0803282;17
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 35961550.9
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 04250383/3
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN A312118473
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0B19555167
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 07C1513393
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 310D415051
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0764E50306
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 04454F7255
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 073571G356
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0671808H05
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 15692404I7
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 081181065J
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN K689112750
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0L40413168
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 31M0181054
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 007N131430
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0385O61918
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 07456P9317
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 960226Q342
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0670295R7X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 07853429S0
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 089577871T
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 039507801U
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN a451159551
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0b40550041
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 00c0800232
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 044d343218
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0441e06779
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 34531f8012
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 843760g780
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0954337h43
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 84014215i4
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN j070547957
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 3k90052743
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 06l1690221
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 067m801472
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0875n60697
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 08359o2331
+The number of comparisons made for this unsucceesful deletion is 3
+
+There is no book with ISBN 096198p868
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 0446300q57
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 15652993r9
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 044045815s
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN t140046968
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0u71568136
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 08v0714742
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 039w084000
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1571x1010X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 04511y5345
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 044100z793
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0671754A74
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 15794009B4
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 038547025C
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN D880887729
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0E53801155
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 18F3523249
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0553E26598
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0352F38008
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 06797G8562
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 087131H977
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0670809I94
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 03453942J3
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 074321627K
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN L821720457
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 3M92260799
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 08N954634X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0440P5459X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0394Q39358
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0449R15547
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0812S65185
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 2277T22363
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 1931U14658
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 0802V44825
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN A770421415
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN B393313735
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN C671785419
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN D064640779
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN E478094369
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN F802117201
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN G44914612X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN H266080636
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN I852835087
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN J688078486
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN K753506017
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN L930486359
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN M805043020
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN N886772958
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN O345285433
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN P517185709
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN Q442540305
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN S56341046X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN T086264157
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN U895870754
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN W500512343
+The number of comparisons made for this unsucceesful deletion is 3
+
+There is no book with ISBN 0X74755767
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN Y071351450
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN Z869306822
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN a442352061
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN b446601721
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN c399238611
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN d446671940
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN e449145700
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN f59045191X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN g394546407
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN h061014060
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN i44013272X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN j152001905
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN k553288741
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN l404146522
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN m395665892
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN n474441587
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN o844294594
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN q445405139
+The number of comparisons made for this unsucceesful deletion is 2
+
+Book with ISBN 0060545674 is successfully deleted
+The number of comparisons made for this succeesful deletion is 1
+
+There is no book with ISBN r967690803
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN s573229342
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN t451404882
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN u89000300X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN v517555352
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN w60355377X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN x373160712
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN y858543770
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN z80075042X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN a312981767
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN a451522826
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN a553078739
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN a688161251
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN a743436482
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN a061300047
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN a066073606
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN b253144290
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN b842305068
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN b555843115
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN b466302298
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN b453199367
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN b590425463
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN b569310890
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN b448126346
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN b309037395
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN b553242342
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN c380006413
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN c523421494
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN c038513359
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN c38071213X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN c553452649
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN c434010472
+The number of comparisons made for this unsucceesful deletion is 3
+
+There is no book with ISBN c742731679
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN c670834386
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN d061062820
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN d802141404
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN d446199802
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN d553227165
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN d441798179
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN d440212995
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN d373160682
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN d812963067
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN e425038858
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN e679404597
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN e689829116
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN e449215733
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN e37541181x
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN e671641581
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN e969403402
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN e812513363
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN f312082517
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN f012100228
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN f892743964
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN f804115516
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN f859533239
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN f789458721
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN g567402054
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN g688039219
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN g393000753
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN g68811928X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN g140183906
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN g743464559
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN h225314552
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN h446404128
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN h569711453
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN h915230224
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN h064430715
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN h553220144
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN i840724331
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN i374521093
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN i330300008
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN i880292512
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN i877017506
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN i688070620
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN j451516532
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN j812880676
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN j842371516
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN j891153471
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN j31215609X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN j263817075
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN k671007793
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN k591163293
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN k843921668
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN k689820313
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN k732266289
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN k312970374
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN k440655029
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN l553562215
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN l590416014
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN l374135657
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN l486403556
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN l394888723
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN l151402167
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN l02045211X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN m870444794
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN m316780154
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN m802113591
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN m385178034
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN m062734318
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN m671496093
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN n810908115
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN n451179994
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN n380435705
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN n394831993
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN n307909034
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN n399215697
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN n590335898
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN x694015091
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN x883012707
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN x689818904
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN x575057637
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN x432043354
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN x266115413
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN x811214524
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN *68806051X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN *060526335
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN *786863994
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN *972703411
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN *671834401
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN *898141355
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN $373250746
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN $373022654
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN $440015316
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN $897110080
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN $445073168
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN $553250027
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 27024@546X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 07148@246X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 00609@3382
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 07225@2563
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 03730@4558
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 03121@8128
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 059%133624
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 044%214249
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 031%85420X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 272%610494
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 082%715461
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 06841378&X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 03807182&0
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 01324206&X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 04415053&7
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 06841552&5
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 08829503&0
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 03749640!4
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 05055197!7
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 06718852!3
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 04862693!8
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 08245140!2
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 09159577!6
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 34260361~8
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 08378183~9
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 05902737~X
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN 07235121~6
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 01402423~3
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN 08128817~2
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN X872390365
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN X451402235
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN X73290790X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN X523405200
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN X559264014
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN X671684418
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN X897330595
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN X558176977
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN T801077494
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN T449224929
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN T423205989
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN T195050479
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN T312135785
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN T58180170X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN T312032757
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN U385293852
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN U440211646
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN U451203720
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN U59032196X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN U688009816
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN U823406695
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN U821738313
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN U151064431
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN U517395746
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN D823050602
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN D297826980
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN D515058548
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN D884194264
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN D030476119
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN D440223733
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN D380781549
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN F441145175
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN F881844640
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN F684818590
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN F90440482X
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN G345331214
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN G140055606
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN G517559528
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN G807842931
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN H880966158
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN H525321551
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN H823413284
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN H394721241
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN H918226376
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN 0H37327273
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN I67945277X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN I060804203
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN I671743287
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN I517550083
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN I671684884
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN I684182548
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN J68931387X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN J345331494
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN J866116451
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN J130811521
+The number of comparisons made for this unsucceesful deletion is 2
+
+There is no book with ISBN K895553880
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN K553443089
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN K878702807
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN K573441392
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN K449240940
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN K39441960X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN L316125415
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN L445208503
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN L743509978
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN L749706562
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN L15601081X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN L141304634
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN M764540297
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN M321013786
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN M671000233
+The number of comparisons made for this unsucceesful deletion is 1
+
+There is no book with ISBN M87341800X
+The number of comparisons made for this unsucceesful deletion is 0
+
+There is no book with ISBN N257217323
+The number of comparisons made for this unsucceesful deletion is 0
+
+-------------------------------------------------
+There were 40 successful searches
+The average number of comparisons for a successful search is 1.28
+
+-------------------------------------------------
+There were 40 unsuccessful searches
+The average number of comparisons for an unsuccessful search is 0.55
+
+-------------------------------------------------
+There were 743 successful deletions
+The average number of comparisons for a successful deletions is 1.13
+
+-------------------------------------------------
+There were 731 unsuccessful deletions
+The average number of comparisons for an unsuccessful deletion is 0.50

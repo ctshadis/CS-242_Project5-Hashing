@@ -22,8 +22,15 @@ public class LinearProbing <E> implements DictionaryADT<E> {
      * @return number of collisions encountered during this insert
     */
     public int insert(E item) {
-        // TO BE IMPLEMENTED BY THE STUDENT
-        return 0;  // TO KEEP THE COMPILER HAPPY.  DELETE IT WHEN DONE
+    	int hashVal = item.hashCode();
+    	int collisionCount = 0;
+    	while(statusTable[hashVal] == Status.OCCUPIED){
+    		hashVal = (hashVal + 1) % TABLESIZE;
+    		collisionCount++;
+    	}
+    	dataTable[hashVal] = item;
+    	statusTable[hashVal] = Status.OCCUPIED;
+        return collisionCount;  
       }  // int insert(...)
 
     /**
@@ -32,8 +39,26 @@ public class LinearProbing <E> implements DictionaryADT<E> {
 	 * @return the object if found; null otherwise
 	 */
     public E search(E item, IntObject count) {
-        // TO BE IMPLMENTED BY THE STUDENT
-        return null;  // to keep the crazy compiler happy
+        int hashVal = item.hashCode();
+        if(statusTable[hashVal] == Status.EMPTY) {
+        	return null;
+        }
+        else {
+        	while(statusTable[hashVal] != Status.EMPTY) {
+        		if(item.equals(dataTable[hashVal])) {
+        			count.setData(count.getData() + 1);
+        			hashVal = (hashVal + 1)%TABLESIZE;
+        			
+        			return item;
+        		}
+        		else {
+        			count.setData(count.getData() + 1);
+        			hashVal = (hashVal + 1)%TABLESIZE;
+        		}
+        	}
+        	return null;
+        }
+          // to keep the crazy compiler happy
     }  // search(...)
 
     /**
@@ -42,7 +67,24 @@ public class LinearProbing <E> implements DictionaryADT<E> {
 	 * @return the object if found and deleted; null otherwise
 	 */
     public E delete(E item, IntObject count) {
-    	// TO BE IMPLEMENTED BY THE STUDENT
-        return null;  // to keep the crazy compiler happy
+    	int hashVal = item.hashCode();
+    	if(statusTable[hashVal] == Status.EMPTY) {
+    		count.setData(0);
+        	return null;
+        }
+        else {//OCC OR DLT
+        	while(statusTable[hashVal] != Status.EMPTY) {
+    			if(statusTable[hashVal] != Status.DELETED) count.setData(count.getData() + 1);
+        		if(item.equals(dataTable[hashVal])) {
+        			dataTable[hashVal] = null;
+        			statusTable[hashVal] = Status.DELETED;
+        			return item;
+        		}
+        		else {
+        			hashVal = (hashVal + 1)%TABLESIZE;
+        		}
+        	}
+        	return null;
+        }
     }  // delete(...)
 }

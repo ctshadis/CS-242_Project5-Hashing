@@ -1,5 +1,5 @@
 All the 147311 elements have been successfully inserted into the hash table
-The total number of collisions while constructing the hash table is 85141
+The total number of collisions while constructing the hash table is 72761
 
 SUCCESS!! Book with ISBN 0001010565 exists in the hash table
 The number of comparisons made for this succeesful search is 5
